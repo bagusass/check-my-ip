@@ -40,10 +40,12 @@ http://localhost:3000
 
 
 ## Demo
-
-![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&label=demo&link=https%3A%2F%2Fcheck-my-ip--bistondroid.repl.co)
+ <a href="https://check-my-ip--bistondroid.repl.co/">
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&label=demo&link=https%3A%2F%2Fcheck-my-ip--bistondroid.repl.co"/>
+ </a>
 
 
 ## Authors
-
-- ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&label=bagusass&link=https%3A%2F%2Fgithub.com%2Fbagusass)
+ <a href="https://github.com/bagusass">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&label=bagusass&link=https%3A%2F%2Fgithub.com%2Fbagusass"/>
+ </a>
