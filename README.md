@@ -21,7 +21,7 @@ cd check-my-ip
 ```    
 ## Usage/Examples
 
-edit token ipinfo.io , its free you can get from ipinfo.io
+edit token ipinfo.io in server.js , its free you can get from ipinfo.io
 ```bash
 https://ipinfo.io/${clientIp}?token=YOUR_TOKEN_HERE
 ```
